@@ -1,35 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+url: http://sensorsunleashed.com
 title: Sensors Unleashed
 email: ole@mnissen.dk
-description: > # this means to ignore newlines until "baseurl:"	
+author: Ole Nissen
+description: > # "Write an awesome description for your new site here.
   The goal of Sensors Unleashed is to create a community driven development
   of a simple, yet powerfull interconnection between wireless devices. The project
-  will be completely open source and follow open standards. Open Hardware, 
+  will be completely open source and follow open standards. Open Hardware,
   Open Source Software, CoAP, Contiki....
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sensorsunleashed.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  araldit
+copyright: 'Copyright &copy; 2016 Ole Nissen. All Rights Reserved.'
+credits: 'Credits: Sensors Unleashed is a free to use, open source wireless sensor network started by Ole Nissen'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/SensorsUnleashed
+  - title: linkedin
+    url: https://www.linkedin.com/in/ole-nissen-36b38110?trk=hp-identity-name
