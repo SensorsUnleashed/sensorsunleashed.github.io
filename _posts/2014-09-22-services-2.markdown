@@ -1,6 +1,6 @@
 ---
 layout: default
-img: opensource.png
+img: osi_symbol.png
 category: Services
 title: Open source Software
 description: |
