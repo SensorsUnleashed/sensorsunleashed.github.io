@@ -1,0 +1,11 @@
+---
+layout: default
+img: opensourcehw.png
+category: Services
+title: Open Hardware
+description: |
+---
+It will be possible to get all the design drawings for all the devices available
+to the system.
+In the furture, it will be possible to buy the hardware for those not willing to
+handsolder the prints.

@@ -1,0 +1,9 @@
+---
+layout: default
+img: openstandards.png
+category: Services
+title: Open standards
+description: |
+---
+This project will only include truely open standards. There will be no need to
+reverse ingeneer anything - just ask!
