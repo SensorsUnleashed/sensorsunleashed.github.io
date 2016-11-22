@@ -9,8 +9,8 @@ This project will be build 100% openly, and third party software will only be
 included if it's open source.
 
 Currently we're using the following open source projects:
-* [Contiki-os](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwiE-6yJubzQAhXHBBoKHdozCM8QFghEMAg&url=http%3A%2F%2Fwww.contiki-os.org%2F&usg=AFQjCNEIZHe152VYjnhMGQ1_4zhYP3KN8Q&sig2=iYfUupNVrr2CVmEkXuodQA&bvm=bv.139250283,d.d2s): The Open Source Operating System for the Internet of Things
-* [MsgPack](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0ahUKEwiz0pH6uLzQAhUCNhoKHccwCP8QFggaMAA&url=http%3A%2F%2Fmsgpack.org%2F&usg=AFQjCNEGMJ7nXDfEoHEuUBPIDb7GL7PdqA&sig2=Uo_noE8ZKi3ba8xWnW1gXA&bvm=bv.139250283,d.d2s): It's like JSON. but fast and small.
-* [CoAP](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjvkYbquLzQAhUCtxoKHdVWAwEQFggcMAA&url=http%3A%2F%2Fcoap.technology%2F&usg=AFQjCNE7WCkGzy9tzEph5lZTjwrHcSBouA&sig2=sVJMBT9Htb15ok9AjP3ocQ): Constrained Application Protocol
+*  [Contiki-os](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwiE-6yJubzQAhXHBBoKHdozCM8QFghEMAg&url=http%3A%2F%2Fwww.contiki-os.org%2F&usg=AFQjCNEIZHe152VYjnhMGQ1_4zhYP3KN8Q&sig2=iYfUupNVrr2CVmEkXuodQA&bvm=bv.139250283,d.d2s): The Open Source Operating System for the Internet of Things
+*  [MsgPack](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0ahUKEwiz0pH6uLzQAhUCNhoKHccwCP8QFggaMAA&url=http%3A%2F%2Fmsgpack.org%2F&usg=AFQjCNEGMJ7nXDfEoHEuUBPIDb7GL7PdqA&sig2=Uo_noE8ZKi3ba8xWnW1gXA&bvm=bv.139250283,d.d2s): It's like JSON. but fast and small.
+*  [CoAP](https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjvkYbquLzQAhUCtxoKHdVWAwEQFggcMAA&url=http%3A%2F%2Fcoap.technology%2F&usg=AFQjCNE7WCkGzy9tzEph5lZTjwrHcSBouA&sig2=sVJMBT9Htb15ok9AjP3ocQ): Constrained Application Protocol
 
 There will be no need to reverse ingeneer anything - just ask!
