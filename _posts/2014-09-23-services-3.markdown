@@ -8,4 +8,6 @@ description: |
 It will be possible to get all the design drawings for all the devices available
 to the system.
 In the furture, it will be possible to buy the hardware for those not willing to
-handsolder the prints.
+handsolder the prints.   
+If anyone needs a specific device, please consider asking me to create it. If
+I find it to fit our portfolio, I might even do it for free :-)
