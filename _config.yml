@@ -27,9 +27,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-#  - title: twitter
-#    url: https://twitter.com/SBootstrap
   - title: github
     url: https://github.com/SensorsUnleashed
   - title: linkedin
     url: https://www.linkedin.com/in/ole-nissen-36b38110?trk=hp-identity-name
+  - title: twitter
+    url: https://twitter.com/olenissen
