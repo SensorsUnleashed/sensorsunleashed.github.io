@@ -5,9 +5,7 @@ category: Services
 title: Open Hardware
 description: |
 ---
-It will be possible to get all the design drawings for all the devices available
-to the system.
-In the furture, it will be possible to buy the hardware for those not willing to
-handsolder the prints.   
-If anyone needs a specific device, please consider asking me to create it. If
-I find it to fit our portfolio, I might even do it for free :-)
+All the design files for all the devices are available from the [github](https://github.com/SensorsUnleashed) repository. This way, everyone can inspect, improve and comment on the design, and together we'll have the best devices available.
+What good is design files, if it takes a 8000$ program to use them. Therefore hardware will be designed using [FreeCad](https://www.freecadweb.org/), [OpenSCAD](http://www.openscad.org/) and [KiCAD](http://kicad-pcb.org/).
+
+_If anyone needs a specific device we will be glad to help._

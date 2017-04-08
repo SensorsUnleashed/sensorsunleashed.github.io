@@ -5,12 +5,11 @@ category: Services
 title: Open source Software
 description: |
 ---
-All software is available for download on Github. Feel free to use it, and if
-you like it, please consider supporting us.
 
-What you gain from the decision of being open sourced:
+* Security - [Given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)
+* Quality - the more developers, the better code.
+* Freedom - No vendor lock-in.
+* Interoperability - Connect to anything you want.
+* Privacy - The data is yours, and yours only!
 
-* Your collection of devices will still work, even if the company behind closes.
-* Privacy. Noone knows what is flowing in and out your local network if communication
-is encrypted, and only they have the key.
-* Security. Open source projects tend to fix bugs and patch vulnerabilities quicker - take linux as an example
+Find it all on [github](https://github.com/SensorsUnleashed)
