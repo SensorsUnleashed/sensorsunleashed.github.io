@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://sensorsunleashed.com
+url: https://www.sensorsunleashed.com
+enforce_ssl: www.sensorsunleashed.com
 title: Sensors Unleashed
 email: ole@mnissen.dk
 author: Ole Nissen
